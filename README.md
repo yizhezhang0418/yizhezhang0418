@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yizhezhang0418
-- 👀 I’m interested in robot
+- 👀 I’m interested in robotics
 - 🌱 I’m currently learning central south university
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yizhezhang0418@163.com
