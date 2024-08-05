@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yizhezhang0418
-- 👀 I’m interested in robotics
-- 🌱 I’m currently learning central south university
+- 👀 I’m interested in robotics, specifically in 3D reconstruction and SLAM.
+- 🌱 I’m currently a M.S. in Wuhan University.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yizhezhang0418@163.com
 
